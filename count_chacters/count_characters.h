@@ -1,0 +1,6 @@
+#ifndef COOKBOOKC_COUNT_CHARACTERS_H
+#define COOKBOOKC_COUNT_CHARACTERS_H
+
+void count_characters();
+
+#endif //COOKBOOKC_COUNT_CHARACTERS_H

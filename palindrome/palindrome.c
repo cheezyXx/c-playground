@@ -10,7 +10,7 @@ void check_palindrome()
     {
         length++;
     }
-    int middle = length / 2;;
+    int middle = length / 2;
     for (start = 0; start < middle; start++)
     {
         if (str[start] != str[length - start - 1])

@@ -1,10 +1,8 @@
 #include <stdio.h>
-//#include "palindrome/palindrome.h"
-#include "repeated_occurence/repeated_occurrence.h"
+#include "count_chacters/count_characters.h"
 
 int main()
 {
-//    check_palindrome();
-    check_occurrence();
+    count_characters();
     return 0;
 }

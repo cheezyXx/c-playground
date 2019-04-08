@@ -3,4 +3,5 @@
 ## Strings
 
 * Palindrome
-* The first repeated occurence of a char in string
+* The first repeated occurrence of a char in string
+* Count of each character in string
