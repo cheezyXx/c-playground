@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include "count_chacters/count_characters.h"
+#include "reverse_string/reverse_string.h"
 
 int main()
 {
-    count_characters();
+    reverse();
     return 0;
 }
